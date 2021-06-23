@@ -15,3 +15,14 @@ Technologies used-
 Flutter, Dart, Android Studio
 
 Login Screen-
+
+
+https://user-images.githubusercontent.com/43439545/123128615-ea72a000-d468-11eb-80ca-a2d78b4b48b8.mp4
+
+
+Basic Functionality Of the Quiz app
+
+
+
+https://user-images.githubusercontent.com/43439545/123129239-6ec52300-d469-11eb-9761-f4a01098ddbc.mp4
+
