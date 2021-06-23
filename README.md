@@ -1,6 +1,7 @@
 # quizz_app
 Quiz Application
 A quizzing application using dart classes, objects, scope variables and Stateful Widgets.
+![ic_launcher_round](https://user-images.githubusercontent.com/43439545/123130907-cf089480-d46a-11eb-9018-15e8a70ec59e.png)
 
 Learning From the Project
 Modularising your code into separate classes.
